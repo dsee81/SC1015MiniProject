@@ -35,6 +35,7 @@ We recommend the government to provide COE subsidies to cars that consume less f
 - Collaboration with Github
 - Chi-Square tests on Categorical Variables.
 - Collaborating on Github
+- Kurtosis and Skewness measures
 
 
 **References**
