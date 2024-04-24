@@ -33,6 +33,8 @@ We recommend the government to provide COE subsidies to cars that consume less f
 - One-hot encoding
 - Ridge and Lasso regression
 - Collaboration with Github
+- Chi-Square tests on Categorical Variables.
+- Collaborating on Github
 
 
 **References**
