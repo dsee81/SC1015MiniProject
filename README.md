@@ -44,3 +44,5 @@ We recommend the government to provide COE subsidies to cars that consume less f
 - https://www.greenplan.gov.sg/
 - https://medium.com/greenplan/greener-travels-ahead-3f6b5f63f125
 - https://www.firestonecompleteautocare.com/blog/driving/how-to-reduce-fuel-consumption/
+- https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.chi2_contingency.html
+- https://towardsdatascience.com/l1-and-l2-regularization-methods-ce25e7fc831c
