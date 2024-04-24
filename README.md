@@ -1,5 +1,6 @@
 # CO2 Emissions Exploration and Prediction. 
 **About**
+
 This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on CO2 Emissions of vehicles. Our notebook consists of the following:
 1. Introduction to the Dataset and Problem
 2. Data Cleaning
@@ -32,7 +33,6 @@ We recommend the government to provide COE subsidies to cars that consume less f
 - Handling a large dataset (7000+)
 - One-hot encoding
 - Ridge and Lasso regression
-- Collaboration with Github
 - Chi-Square tests on Categorical Variables.
 - Collaborating on Github
 - Kurtosis and Skewness measures
