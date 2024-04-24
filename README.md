@@ -21,6 +21,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 3. Lasso Regression
 
 **Conclusion**
+
 From the 3 models we have used, we decided that Lasso regression is the best at predicting carbon emissions for our dataset. Multilinear regression is unable to perform in depth feature selection. Comparing Ridge and Lasso regression, Lasso Regression can perform automatic feature selection by shrinking non-important variables to 0. Lasso Regression also helps us to better identify the most significant variables in impacting CO2 Emissions, having a similar performance to Ridge Regression in terms of R^2 and MSE, therefore we chose Lasso Regression.
 
 We have found that fuel consumption is the most significant factor causing carbon emissions. This is because cars in Canada spend a long time in traffic jams, leading to idling cars, which consumes more fuel. Hence,we also found second most significant variable, ethanol, to allow the data to be more applicable to Singapore. 
